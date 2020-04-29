@@ -3,7 +3,7 @@
     {
       "name": "Test1",
       "setup": "",
-      "run": "python",
+      "run": "python mainEj04.py",
       "input": "1\r\n2\r\n3\r\n4",
       "output": "Ordenados: 1 2 3 4",
       "comparison": "exact",
